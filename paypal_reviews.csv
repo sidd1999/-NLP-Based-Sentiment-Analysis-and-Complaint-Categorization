@@ -1,0 +1,1001 @@
+index,reviewerName,product,reviewText,overall,reviewTime,day_diff,helpful_yes,helpful_no,total_vote,score_pos_neg_diff,score_average_rating,wilson_lower_bound
+0,J. Morse,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-09-09,455,0,0,0,0,0.0,0.0
+1,Steven K,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",1.0,2014-05-24,198,0,0,0,0,0.0,0.0
+2,Brandon Batson,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",1.0,2012-12-24,714,0,0,0,0,0.0,0.0
+3,Robert Sommer,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2014-05-03,219,0,0,0,0,0.0,0.0
+4,"Joseph Criniti, Jr.",Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2012-10-17,782,0,0,0,0,0.0,0.0
+5,A. Garcia,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-07-29,497,0,0,0,0,0.0,0.0
+6,Katmai,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2014-04-02,250,0,0,0,0,0.0,0.0
+7,Kirk,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-06-19,537,0,0,0,0,0.0,0.0
+8,J. Cervantes,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2013-08-15,480,0,0,0,0,0.0,0.0
+9,nta699,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2014-02-24,287,0,0,0,0,0.0,0.0
+10,A Student,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",1.0,2013-10-11,423,1,0,1,1,1.0,0.2065493143772374
+11,Markk,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-03-22,626,0,0,0,0,0.0,0.0
+12,unixman,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2012-12-29,709,0,0,0,0,0.0,0.0
+13,Cody,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2014-04-07,245,0,0,0,0,0.0,0.0
+14,David,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-12-14,359,0,0,0,0,0.0,0.0
+15,Boris,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2014-09-01,98,0,0,0,0,0.0,0.0
+16,"R. Greene ""meggabitz""",Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",4.0,2014-02-28,283,0,0,0,0,0.0,0.0
+17,RJ,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-12-08,365,0,0,0,0,0.0,0.0
+18,plo,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2014-01-29,313,0,0,0,0,0.0,0.0
+19,PayPal Customer,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2014-02-01,310,1,0,1,1,1.0,0.2065493143772374
+20,Arthur C. Cox,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",4.0,2014-10-05,64,0,0,0,0,0.0,0.0
+21,Mr AMZ,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",1.0,2013-02-19,657,0,0,0,0,0.0,0.0
+22,redbaron8,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-03-01,282,0,0,0,0,0.0,0.0
+23,"toobad ""toobad""",PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2013-04-29,588,0,0,0,0,0.0,0.0
+24,DinDada,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-08-05,125,0,0,0,0,0.0,0.0
+25,"Tom Grundy ""Love a good book!""",PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2012-12-31,707,0,0,0,0,0.0,0.0
+26,Dave Carlson,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-05-24,563,0,0,0,0,0.0,0.0
+27,setzco,Xoom,"Transfers are generally quick, but the mobile app could be improved.",4.0,2013-04-04,613,0,0,0,0,0.0,0.0
+28,Bumqui,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-01-29,313,0,0,0,0,0.0,0.0
+29,kj,Xoom,"The service is good, but sometimes the app crashes during transactions.",3.0,2013-12-28,345,0,0,0,0,0.0,0.0
+30,DillonsPCRepair,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2014-01-21,321,0,0,0,0,0.0,0.0
+31,"R. Guevara Galvan ""Roniux""",PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-02-27,649,1,0,1,1,1.0,0.2065493143772374
+32,Perry Hopper Sr,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-01-09,698,0,0,0,0,0.0,0.0
+33,LostboyzKING,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-03-27,621,0,0,0,0,0.0,0.0
+34,asaverio,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2014-01-29,313,0,0,0,0,0.0,0.0
+35,Thomas L. Ballard,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2014-02-28,283,0,0,0,0,0.0,0.0
+36,Eugene A. Wright,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",4.0,2014-05-30,192,0,0,0,0,0.0,0.0
+37,sadpony,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-04-29,588,0,0,0,0,0.0,0.0
+38,Willam Armstrong,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2013-05-30,557,0,0,0,0,0.0,0.0
+39,Austin,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2013-06-04,552,0,0,0,0,0.0,0.0
+40,K. Coleman,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-08-09,486,0,0,0,0,0.0,0.0
+41,Calvin,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2014-04-27,225,0,0,0,0,0.0,0.0
+42,Twin Jalanugraha,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-06-21,535,0,0,0,0,0.0,0.0
+43,"C. Wagner ""just one more gadget""",PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-01-26,316,0,0,0,0,0.0,0.0
+44,samson,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-06-19,172,0,0,0,0,0.0,0.0
+45,Greg,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2012-04-12,970,0,0,0,0,0.0,0.0
+46,John the Revelator,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",4.0,2014-05-30,192,0,0,0,0,0.0,0.0
+47,Richard,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2013-03-24,624,0,0,0,0,0.0,0.0
+48,os_cali,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-08-11,484,0,0,0,0,0.0,0.0
+49,"Barotropic ""albedo""",Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2014-04-01,251,0,0,0,0,0.0,0.0
+50,Carl Crampton,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-09-11,453,0,0,0,0,0.0,0.0
+51,TRice,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2014-07-07,154,0,0,0,0,0.0,0.0
+52,PayPal Customer,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2012-12-27,711,0,0,0,0,0.0,0.0
+53,Beantown,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-12-02,371,0,0,0,0,0.0,0.0
+54,"R. Robb ""occassional techy""",PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-06-02,554,0,0,0,0,0.0,0.0
+55,Matt Hinrichs,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2013-05-11,576,0,0,0,0,0.0,0.0
+56,"Timothy S. Smith ""Camera Dude""",Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-08-20,475,0,0,0,0,0.0,0.0
+57,PayPal Customer,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2012-08-12,848,0,0,0,0,0.0,0.0
+58,Ali G Sandoval,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-07-14,147,0,0,0,0,0.0,0.0
+59,LD,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-07-23,503,0,0,0,0,0.0,0.0
+60,Jbd22g,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",4.0,2013-06-01,555,0,0,0,0,0.0,0.0
+61,H. Oliver,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-11-03,400,0,0,0,0,0.0,0.0
+62,B. Hutchins,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-12-01,7,0,0,0,0,0.0,0.0
+63,Jonah,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-03-01,647,0,0,0,0,0.0,0.0
+64,PayPal Customer,PayPal Credit,"The service is okay, but there are better options with lower fees.",2.0,2014-04-28,224,0,3,3,-3,0.0,4.868360917120224e-17
+65,The Professor,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2013-11-11,392,0,0,0,0,0.0,0.0
+66,Carlos,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2014-03-23,260,0,0,0,0,0.0,0.0
+67,4evryoung,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2014-03-24,259,1,0,1,1,1.0,0.2065493143772374
+68,The Nudnik,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-12-07,1,0,0,0,0,0.0,0.0
+69,"GUSR19 ""JimE""",PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2014-05-05,217,0,0,0,0,0.0,0.0
+70,David,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-12-12,361,1,0,1,1,1.0,0.2065493143772374
+71,"fotos.david ""f/d""",PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2014-02-18,293,0,0,0,0,0.0,0.0
+72,J. Foust,Xoom,"Transfers are generally quick, but the mobile app could be improved.",1.0,2013-08-02,493,0,1,1,-1,0.0,0.0
+73,Goobtube,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2014-05-29,193,0,0,0,0,0.0,0.0
+74,fredoh2,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-05-16,571,0,0,0,0,0.0,0.0
+75,C. Schmidt,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2013-05-16,571,0,0,0,0,0.0,0.0
+76,AnchorManagement,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-11-05,398,0,0,0,0,0.0,0.0
+77,aaron mckaig,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2014-04-04,248,0,0,0,0,0.0,0.0
+78,"T. Mayer ""Linda""",Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-07-07,519,0,0,0,0,0.0,0.0
+79,K. Rodriguez,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",1.0,2013-09-08,456,0,0,0,0,0.0,0.0
+80,Eric,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-01-19,688,1,0,1,1,1.0,0.2065493143772374
+81,Mark,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2014-03-27,256,0,0,0,0,0.0,0.0
+82,T. Funk,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",4.0,2013-08-24,471,0,0,0,0,0.0,0.0
+83,"John Kempf ""Gadgetskopf""",PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",5.0,2013-03-15,633,0,0,0,0,0.0,0.0
+84,wstout,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-10-31,403,0,0,0,0,0.0,0.0
+85,Henry T. Bluing,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-08-21,474,0,0,0,0,0.0,0.0
+86,***Andy***,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2014-04-03,249,0,0,0,0,0.0,0.0
+87,William,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2012-12-26,712,0,0,0,0,0.0,0.0
+88,D. Wong,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-02-14,662,0,0,0,0,0.0,0.0
+89,JA,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2013-11-26,377,0,0,0,0,0.0,0.0
+90,Grimjaw,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-09-19,445,0,0,0,0,0.0,0.0
+91,Bonnie Burgener,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2012-12-24,714,0,0,0,0,0.0,0.0
+92,pepper45322,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",1.0,2012-12-29,709,6,2,8,4,0.75,0.4092754303101689
+93,J. Keller,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-12-02,6,0,0,0,0,0.0,0.0
+94,"Ed Win ""Al Smitheee""",PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-05-05,582,0,0,0,0,0.0,0.0
+95,JABthat20,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-07-23,503,0,0,0,0,0.0,0.0
+96,"JoeyCakes ""JoeyCakes""",Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2013-06-01,555,0,0,0,0,0.0,0.0
+97,Paul Ruff,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2013-07-04,522,0,0,0,0,0.0,0.0
+98,HUGO E. SANCHEZ,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",4.0,2014-04-23,229,1,0,1,1,1.0,0.2065493143772374
+99,PayPal Customer,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",4.0,2013-07-19,507,0,0,0,0,0.0,0.0
+100,"Raymond W. Leung ""rwleung98""",PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-02-16,660,0,0,0,0,0.0,0.0
+101,victor m flores,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2014-11-03,35,0,0,0,0,0.0,0.0
+102,One Day,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",1.0,2012-11-27,741,0,2,2,-2,0.0,0.0
+103,Em,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2014-05-03,219,1,0,1,1,1.0,0.2065493143772374
+104,"Greg T ""Love Electronics""",PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2012-11-12,756,0,0,0,0,0.0,0.0
+105,W.T. HAMPTON,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2014-03-24,259,0,0,0,0,0.0,0.0
+106,"Brett East ""Prime is GOOD""",Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2013-09-14,450,0,0,0,0,0.0,0.0
+107,craig,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-06-19,172,0,0,0,0,0.0,0.0
+108,Angelika Perry,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2014-01-19,323,0,0,0,0,0.0,0.0
+109,Jeff Felker,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2014-07-04,157,0,0,0,0,0.0,0.0
+110,ian,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",4.0,2014-07-01,160,0,0,0,0,0.0,0.0
+111,Javier Rodriguez,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-10-01,433,0,0,0,0,0.0,0.0
+112,Parker Alton,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2014-11-06,32,0,0,0,0,0.0,0.0
+113,D. Evans,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",1.0,2013-03-06,642,1,0,1,1,1.0,0.2065493143772374
+114,K. Maglinte,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2012-02-10,1032,0,0,0,0,0.0,0.0
+115,Zachary Flategraff,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-11-23,380,0,0,0,0,0.0,0.0
+116,PayPal Customer,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2014-07-01,160,0,0,0,0,0.0,0.0
+117,Mike Camacho,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-08-13,482,0,0,0,0,0.0,0.0
+118,"Amazon Customer ""wolverine331""",Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-11-28,375,0,0,0,0,0.0,0.0
+119,Robert H Morgan,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-06-07,549,0,0,0,0,0.0,0.0
+120,Connie Smither,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-05-17,205,0,0,0,0,0.0,0.0
+121,Jerry L. Harper,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-10-11,423,0,0,0,0,0.0,0.0
+122,ak2012,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-04-26,591,0,0,0,0,0.0,0.0
+123,Dao Vang,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-07-20,506,0,0,0,0,0.0,0.0
+124,Patrick,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-02-06,670,0,0,0,0,0.0,0.0
+125,David A. Thomas,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",4.0,2013-10-31,403,0,0,0,0,0.0,0.0
+126,chris khouri,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",4.0,2013-11-08,395,0,0,0,0,0.0,0.0
+127,"papatech ""c.p.""",Braintree,"It works well for multiple payment options, but the interface could be smoother.",4.0,2013-07-02,524,0,0,0,0,0.0,0.0
+128,eblak3,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2014-04-24,228,0,0,0,0,0.0,0.0
+129,Ladychaos1,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-09-11,453,0,0,0,0,0.0,0.0
+130,"Harrison A. Curtis ""Techy""",PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-02-22,289,0,0,0,0,0.0,0.0
+131,"Abel Feliciano ""Ace Master""",Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",4.0,2012-11-09,759,0,0,0,0,0.0,0.0
+132,KingQuadder,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-12-30,343,0,0,0,0,0.0,0.0
+133,Sebastian,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",4.0,2013-06-11,545,0,0,0,0,0.0,0.0
+134,Opti Mist,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2014-04-26,226,0,0,0,0,0.0,0.0
+135,Bruni,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-10-09,425,0,0,0,0,0.0,0.0
+136,B. Augustine,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",2.0,2012-08-31,829,0,0,0,0,0.0,0.0
+137,"Amazon Customer ""DPM""",PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2013-11-24,379,0,0,0,0,0.0,0.0
+138,kellster,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2012-12-30,708,0,0,0,0,0.0,0.0
+139,Tonys59,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2013-08-10,485,0,0,0,0,0.0,0.0
+140,Peppy,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-04-28,224,0,0,0,0,0.0,0.0
+141,"BitTwiddler ""OldSchoolGeek""",PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-06-01,555,0,0,0,0,0.0,0.0
+142,Unsatisfied,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-01-20,322,0,0,0,0,0.0,0.0
+143,"Yu-jin &amp; Tracy Chia ""Yu-Jin Chia""",PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",4.0,2012-11-29,739,6,2,8,4,0.75,0.4092754303101689
+144,DrBill,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2013-12-25,348,0,0,0,0,0.0,0.0
+145,dorian,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-02-12,664,0,0,0,0,0.0,0.0
+146,jeff hollis,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-04-10,607,0,0,0,0,0.0,0.0
+147,"J. Enrique Ortiz ""okje""",PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",2.0,2014-08-06,124,0,0,0,0,0.0,0.0
+148,Thomas D. Torkelson,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2014-08-04,126,0,0,0,0,0.0,0.0
+149,Shelly-Ann,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",3.0,2013-02-22,654,0,0,0,0,0.0,0.0
+150,"Ethan Winning ""Ethan Winning""",PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-03-29,254,1,0,1,1,1.0,0.2065493143772374
+151,"Robyn Swaim ""robynthetexasvamp""",Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-03-28,620,0,0,0,0,0.0,0.0
+152,"L. Pombo ""felinelvr""",PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",4.0,2014-03-19,264,0,0,0,0,0.0,0.0
+153,WILLIAM NANNEY,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",4.0,2013-04-29,588,0,0,0,0,0.0,0.0
+154,RON,Xoom,"The service is good, but sometimes the app crashes during transactions.",1.0,2014-03-25,258,1,0,1,1,1.0,0.2065493143772374
+155,PayPal Customer,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2014-02-17,294,0,0,0,0,0.0,0.0
+156,Phil,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-06-09,547,0,0,0,0,0.0,0.0
+157,A to Z Guarantee,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-09-07,457,0,0,0,0,0.0,0.0
+158,"Stephen Bagiatis Jr. ""Hodgieb""",PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",5.0,2013-09-14,450,0,0,0,0,0.0,0.0
+159,"M. Trail ""venomx296""",Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-02-21,290,0,0,0,0,0.0,0.0
+160,"Melvey ""Rick F""",PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-06-01,190,0,0,0,0,0.0,0.0
+161,R. Heisler,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",3.0,2013-02-27,649,22,3,25,19,0.88,0.7004420607907267
+162,NurseLovesDeals,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-03-24,624,0,0,0,0,0.0,0.0
+163,"Aloha Jo Distributions ""PiggyBank Inc""",PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",5.0,2014-10-07,62,0,0,0,0,0.0,0.0
+164,James W Young,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-02-01,310,0,0,0,0,0.0,0.0
+165,Terez B.,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-11-15,388,0,0,0,0,0.0,0.0
+166,Daryl,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-02-05,671,1,0,1,1,1.0,0.2065493143772374
+167,Z. Duncan,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2014-03-02,281,0,0,0,0,0.0,0.0
+168,Genevieve,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2013-04-07,610,0,0,0,0,0.0,0.0
+169,PayPal Customer,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2014-10-03,66,0,0,0,0,0.0,0.0
+170,"SirNagrom ""Computer Geek""",Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-08-27,468,0,0,0,0,0.0,0.0
+171,Brian Sixbey,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2012-11-22,746,0,0,0,0,0.0,0.0
+172,happy gardener,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2012-02-12,1030,0,0,0,0,0.0,0.0
+173,Nate C.,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-10-30,404,0,0,0,0,0.0,0.0
+174,kmac,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-01-29,313,0,0,0,0,0.0,0.0
+175,"Hyoun Kim ""Faluzure""",Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-01-05,702,1952,68,2020,1884,0.9663366336633664,0.9575439475520824
+176,"Nersi Pouya ""Nersi""",PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-11-12,391,0,0,0,0,0.0,0.0
+177,Adan Montiel,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-08-02,128,0,0,0,0,0.0,0.0
+178,9z4cda,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2014-04-07,245,0,0,0,0,0.0,0.0
+179,andrew,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-05-25,562,0,0,0,0,0.0,0.0
+180,"mmmgoodm7 ""MMM""",Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-01-15,692,0,0,0,0,0.0,0.0
+181,Tactical Keychains,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2014-06-07,184,0,0,0,0,0.0,0.0
+182,walter goodwyn,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-12-11,362,0,0,0,0,0.0,0.0
+183,Rene R. Leblanc,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2014-02-07,304,1,0,1,1,1.0,0.2065493143772374
+184,"Javier Fonseca ""Javier Fonseca""",Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",1.0,2013-05-26,561,0,0,0,0,0.0,0.0
+185,omfgskyler,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-05-03,584,0,0,0,0,0.0,0.0
+186,L. Brewer,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",4.0,2013-11-01,402,0,1,1,-1,0.0,0.0
+187,marsalla,Xoom,"Transfers are generally quick, but the mobile app could be improved.",2.0,2013-02-06,670,1,2,3,-1,0.3333333333333333,0.0614919447203962
+188,RST10,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-09-09,455,0,0,0,0,0.0,0.0
+189,Diddy,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",4.0,2014-06-29,162,0,0,0,0,0.0,0.0
+190,Wavey Davey,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2014-12-01,7,0,0,0,0,0.0,0.0
+191,"Amazon Customer ""johncrea""",PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2012-08-13,847,38,10,48,28,0.7916666666666666,0.6574109872738206
+192,Neomaximus,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-05-08,579,0,0,0,0,0.0,0.0
+193,C. A. Snow,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",4.0,2013-05-09,578,0,0,0,0,0.0,0.0
+194,pseudonym,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2014-05-19,203,0,0,0,0,0.0,0.0
+195,Bhola Bhala,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-01-08,699,0,0,0,0,0.0,0.0
+196,Leonardo Lee,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-09-28,436,0,1,1,-1,0.0,0.0
+197,Review-a,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2012-02-12,1030,0,0,0,0,0.0,0.0
+198,shadez82,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-08-08,487,0,0,0,0,0.0,0.0
+199,rt66west,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-06-07,549,0,0,0,0,0.0,0.0
+200,Michael Ray Goins,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-08-28,467,0,0,0,0,0.0,0.0
+201,"some guy ""some guy in ny""",Xoom,"It's reliable, though I had one delayed transfer which was annoying.",2.0,2012-11-30,738,1,0,1,1,1.0,0.2065493143772374
+202,Yachtwork,Braintree,"It works well for multiple payment options, but the interface could be smoother.",4.0,2013-10-20,414,0,0,0,0,0.0,0.0
+203,D. Cahill,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",4.0,2014-05-05,217,2,0,2,2,1.0,0.3423802275066531
+204,Sheldon Anthony,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-10-02,67,0,0,0,0,0.0,0.0
+205,Larry Roberts,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2014-09-01,98,0,0,0,0,0.0,0.0
+206,Lance Alexander,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-10-25,409,0,0,0,0,0.0,0.0
+207,Brian Bailey,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-07-11,515,0,0,0,0,0.0,0.0
+208,Brandon Warren,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2014-07-14,147,0,0,0,0,0.0,0.0
+209,Ali Tweel,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-05-26,561,0,0,0,0,0.0,0.0
+210,steveo,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2013-04-14,603,0,0,0,0,0.0,0.0
+211,R. Sutton,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",4.0,2013-05-31,556,0,0,0,0,0.0,0.0
+212,"S. Frainier ""rfrainier""",PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2014-03-31,252,0,0,0,0,0.0,0.0
+213,Lothos,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2014-04-18,234,0,0,0,0,0.0,0.0
+214,jimmy martinez,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2013-09-30,434,0,0,0,0,0.0,0.0
+215,PayPal Customer,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-01-26,681,0,0,0,0,0.0,0.0
+216,Sourz,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-04-22,595,0,0,0,0,0.0,0.0
+217,P. Kuhn,Xoom,"Transfers are generally quick, but the mobile app could be improved.",1.0,2013-01-15,692,0,1,1,-1,0.0,0.0
+218,"Big &#34;E&#34; ""Big &#34;E&#34;""",PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-04-30,222,0,0,0,0,0.0,0.0
+219,Evan Bartilson,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-12-02,6,0,0,0,0,0.0,0.0
+220,Wesley Haley,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2013-03-22,626,1,0,1,1,1.0,0.2065493143772374
+221,"Dave ""Dave""",PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",4.0,2014-09-06,93,0,0,0,0,0.0,0.0
+222,Kenmbz,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2014-05-01,221,0,0,0,0,0.0,0.0
+223,PayPal Customer,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-01-24,683,0,0,0,0,0.0,0.0
+224,froemer,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",1.0,2014-01-18,324,0,0,0,0,0.0,0.0
+225,Tony the Mofo Tiger,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2014-12-01,7,0,0,0,0,0.0,0.0
+226,jmscreator,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2014-06-23,168,0,0,0,0,0.0,0.0
+227,"Cowboybob ""CB""",Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-09-20,444,1,0,1,1,1.0,0.2065493143772374
+228,Ashu M,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-01-10,697,0,0,0,0,0.0,0.0
+229,Jason Iannazzo,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2014-03-16,267,0,0,0,0,0.0,0.0
+230,Paul,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2012-12-27,711,0,0,0,0,0.0,0.0
+231,masterhankshake,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2014-03-07,276,0,0,0,0,0.0,0.0
+232,G. Nguyen,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2013-02-27,649,0,0,0,0,0.0,0.0
+233,Hayrcc,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2014-01-05,337,1,0,1,1,1.0,0.2065493143772374
+234,"Michael J. Eckman ""Mike""",Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-10-04,430,0,0,0,0,0.0,0.0
+235,Space Cadet,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-05-20,567,1,0,1,1,1.0,0.2065493143772374
+236,"Sofyah ""sofyah""",Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2013-09-19,445,0,0,0,0,0.0,0.0
+237,preston,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-06-05,551,0,0,0,0,0.0,0.0
+238,Engineer Brad,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2014-01-02,340,0,0,0,0,0.0,0.0
+239,"Carl F. Otto ""Carl Otto""",PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2013-01-14,693,0,0,0,0,0.0,0.0
+240,S. Hunt,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-02-01,675,0,0,0,0,0.0,0.0
+241,Lucy,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-07-01,525,0,0,0,0,0.0,0.0
+242,Alex,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-01-07,700,0,0,0,0,0.0,0.0
+243,Brian J. Mcmahon,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2014-06-04,187,0,0,0,0,0.0,0.0
+244,"Vincent A. Denis ""Vincent""",Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2014-05-27,195,0,0,0,0,0.0,0.0
+245,"FuntimeGrandpa ""FuntimeGrandpa""",PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2014-11-01,37,0,0,0,0,0.0,0.0
+246,"WG Thomas ""excellentdriver""",Xoom,"It's reliable, though I had one delayed transfer which was annoying.",3.0,2013-10-07,427,0,0,0,0,0.0,0.0
+247,Francisco Anaya,Xoom,"Transfers are generally quick, but the mobile app could be improved.",4.0,2013-02-01,675,0,0,0,0,0.0,0.0
+248,nytowl,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2013-11-26,377,0,0,0,0,0.0,0.0
+249,roland,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2014-09-06,93,0,0,0,0,0.0,0.0
+250,"Campmaster Tom ""There's no place like 127.0.0.1""",PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2013-02-16,660,0,0,0,0,0.0,0.0
+251,aljacobs,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2014-09-07,92,0,0,0,0,0.0,0.0
+252,"Jack ""badbrad97""",Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2014-02-05,306,0,0,0,0,0.0,0.0
+253,Michael,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",4.0,2013-06-16,540,0,0,0,0,0.0,0.0
+254,"Andrew Cutler ""Big Fan""",Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-06-09,547,0,0,0,0,0.0,0.0
+255,C.P.B.,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-12-13,360,0,0,0,0,0.0,0.0
+256,Raymond P.,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2014-06-30,161,0,0,0,0,0.0,0.0
+257,"notbraveheart ""notbraveheart""",PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-06-08,548,1,0,1,1,1.0,0.2065493143772374
+258,John,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2014-09-01,98,0,0,0,0,0.0,0.0
+259,Luke W,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",4.0,2013-08-08,487,0,0,0,0,0.0,0.0
+260,jeanjaguar,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-03-21,627,0,0,0,0,0.0,0.0
+261,hrbud,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",1.0,2013-03-26,622,0,0,0,0,0.0,0.0
+262,Leonardo,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2014-09-03,96,0,0,0,0,0.0,0.0
+263,Omar M.,PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",1.0,2013-06-15,541,0,0,0,0,0.0,0.0
+264,B. Weigel,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2014-07-03,158,0,0,0,0,0.0,0.0
+265,Bruce Sobocinski,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-07-02,524,1,0,1,1,1.0,0.2065493143772374
+266,ProPhotog,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",2.0,2013-05-26,561,0,0,0,0,0.0,0.0
+267,Cam,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-11-30,373,1,0,1,1,1.0,0.2065493143772374
+268,"ffabric ""ffabric""",Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",4.0,2013-07-12,514,0,0,0,0,0.0,0.0
+269,Locksmith,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-12-13,360,0,0,0,0,0.0,0.0
+270,"Joanna57 ""joanna57""",PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2013-09-01,463,0,0,0,0,0.0,0.0
+271,CoquiLostInNY,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2014-10-01,68,0,0,0,0,0.0,0.0
+272,George A. Sopko,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",1.0,2013-06-01,555,0,1,1,-1,0.0,0.0
+273,techsavvykat,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2014-11-02,36,0,0,0,0,0.0,0.0
+274,justing6,PayPal Credit,"The service is okay, but there are better options with lower fees.",4.0,2013-01-16,691,0,0,0,0,0.0,0.0
+275,delbert,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-04-09,608,0,0,0,0,0.0,0.0
+276,ART005,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-07-16,510,0,0,0,0,0.0,0.0
+277,Jim Adams,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-10-08,426,0,0,0,0,0.0,0.0
+278,"J. Banks ""Bluesman""",Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-11-20,383,0,0,0,0,0.0,0.0
+279,ashu,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2014-11-02,36,0,0,0,0,0.0,0.0
+280,Winafew,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2014-09-02,97,0,0,0,0,0.0,0.0
+281,Tori,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-05-09,578,0,0,0,0,0.0,0.0
+282,troy groetken,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-02-04,672,0,0,0,0,0.0,0.0
+283,A.,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-04-13,604,0,0,0,0,0.0,0.0
+284,C. Dan,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2014-05-07,215,0,0,0,0,0.0,0.0
+285,Manuel Mendoza,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2013-10-12,422,0,0,0,0,0.0,0.0
+286,Aaron T. Swain,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2012-07-26,865,1,1,2,0,0.5,0.0945312057342307
+287,Bob,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",2.0,2014-01-22,320,0,0,0,0,0.0,0.0
+288,gellikit,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2012-09-22,807,1,0,1,1,1.0,0.2065493143772374
+289,Reza,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-06-08,548,1,0,1,1,1.0,0.2065493143772374
+290,Hubert Farnsworth,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",3.0,2014-04-29,223,0,0,0,0,0.0,0.0
+291,"PKS ""Laughing Buddha""",PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2014-01-16,326,0,0,0,0,0.0,0.0
+292,Dennis Peterson,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-04-26,226,0,0,0,0,0.0,0.0
+293,Cleo,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-01-11,696,0,0,0,0,0.0,0.0
+294,Stelios J. Malamamatos,Xoom,"The service is good, but sometimes the app crashes during transactions.",4.0,2013-02-02,674,0,0,0,0,0.0,0.0
+295,K. Lewis,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2014-12-04,4,0,0,0,0,0.0,0.0
+296,PayPal Customer,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2014-06-03,188,0,0,0,0,0.0,0.0
+297,Jamie Hamel-Smith,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2014-01-07,335,0,0,0,0,0.0,0.0
+298,kevin chung,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-08-01,129,0,0,0,0,0.0,0.0
+299,S. Moon,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2012-12-22,716,0,0,0,0,0.0,0.0
+300,"John Seidner ""John""",PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",1.0,2012-12-15,723,0,0,0,0,0.0,0.0
+301,"David S. Winokur ""Photographer, Luthier""",Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2012-11-22,746,2,0,2,2,1.0,0.3423802275066531
+302,Nicholas Katsaras,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-05-07,580,1,0,1,1,1.0,0.2065493143772374
+303,G. Kohler,Braintree,"A solid service, though I had a few issues with setting it up initially.",1.0,2014-02-13,298,0,0,0,0,0.0,0.0
+304,Arthur Gerhart,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-08-15,480,0,0,0,0,0.0,0.0
+305,Darrell Tony Brown Jr,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2014-01-13,329,0,0,0,0,0.0,0.0
+306,Brett D,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-11-18,385,1,1,2,0,0.5,0.0945312057342307
+307,LDV,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-02-21,655,1,0,1,1,1.0,0.2065493143772374
+308,Kenneth Kirkland,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2012-11-20,748,0,0,0,0,0.0,0.0
+309,adg44,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2012-11-26,742,0,0,0,0,0.0,0.0
+310,Jonathan Schreckengost,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2014-03-13,270,0,0,0,0,0.0,0.0
+311,The Brady Report,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",1.0,2013-10-30,404,0,0,0,0,0.0,0.0
+312,eldredn,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",4.0,2013-06-10,546,0,0,0,0,0.0,0.0
+313,"Patrick S. Armstrong ""armstr54""",Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2013-02-01,675,0,0,0,0,0.0,0.0
+314,RSprivate,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",4.0,2013-08-25,470,0,0,0,0,0.0,0.0
+315,P.L.,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-01-27,680,0,0,0,0,0.0,0.0
+316,Arnie Posadas,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-06-04,552,0,0,0,0,0.0,0.0
+317,"shiv ""shiv""",Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2013-12-14,359,1,0,1,1,1.0,0.2065493143772374
+318,Sean,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2014-10-05,64,0,0,0,0,0.0,0.0
+319,"Ernesto TOHME Hernandez ""ethom""",Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-01-06,701,1,0,1,1,1.0,0.2065493143772374
+320,Dave Thelwell jr,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2014-09-04,95,0,0,0,0,0.0,0.0
+321,Doru Nica,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2014-02-06,305,0,0,0,0,0.0,0.0
+322,Alan,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",4.0,2014-01-31,311,0,0,0,0,0.0,0.0
+323,CPTJOHNC,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2014-08-05,125,0,0,0,0,0.0,0.0
+324,Anon Buyer,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",4.0,2013-01-22,685,0,0,0,0,0.0,0.0
+325,Chaz Ashley,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",4.0,2014-09-03,96,0,0,0,0,0.0,0.0
+326,Ben Schwantes,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2014-09-02,97,0,0,0,0,0.0,0.0
+327,"Ulises Bocchio ""Ulises Bocchio""",Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-05-11,576,0,0,0,0,0.0,0.0
+328,Pat F.,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",4.0,2012-12-17,721,0,0,0,0,0.0,0.0
+329,Some_other_guy,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2014-06-05,186,0,0,0,0,0.0,0.0
+330,WendyBird,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2014-02-27,284,0,0,0,0,0.0,0.0
+331,"Lou S ""Woodworker""",Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2014-03-19,264,0,0,0,0,0.0,0.0
+332,Robert Torres,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2013-04-21,596,0,0,0,0,0.0,0.0
+333,gnagle8520,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-07-30,496,0,0,0,0,0.0,0.0
+334,Matt B.,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2014-03-24,259,0,0,0,0,0.0,0.0
+335,"Tommy Dee ""EnglishmanHi Tech""",Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-03-27,621,0,0,0,0,0.0,0.0
+336,Tinfoot,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2014-08-02,128,1,0,1,1,1.0,0.2065493143772374
+337,"Amazon Customer ""Christian""",Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",1.0,2013-05-22,565,0,0,0,0,0.0,0.0
+338,Learning Princess,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2012-10-31,768,0,0,0,0,0.0,0.0
+339,ERK,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2014-04-07,245,0,0,0,0,0.0,0.0
+340,"Joe Lupino ""AGuyNamedJoe""",PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-10-23,411,0,0,0,0,0.0,0.0
+341,eddie,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",4.0,2013-05-13,574,0,0,0,0,0.0,0.0
+342,Benjamin P.,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-09-22,442,0,0,0,0,0.0,0.0
+343,"Endi ""Endiablado""",Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-03-10,638,0,0,0,0,0.0,0.0
+344,jimbo,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2013-10-05,429,0,0,0,0,0.0,0.0
+345,Ryan W. Mccauley,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",4.0,2013-12-13,360,0,0,0,0,0.0,0.0
+346,Ninja Ryan,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2013-08-10,485,0,0,0,0,0.0,0.0
+347,Airedad,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2012-07-25,866,15,6,21,9,0.7142857142857143,0.5004361928391441
+348,M. Marhanka,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2014-01-03,339,0,0,0,0,0.0,0.0
+349,ROGER,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-01-30,312,0,0,0,0,0.0,0.0
+350,J.Tenneyson,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",4.0,2014-01-04,338,0,0,0,0,0.0,0.0
+351,"crazygirl ""kelli""",Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2014-02-24,287,0,0,0,0,0.0,0.0
+352,"Radiskull ""Radiskull""",PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",4.0,2014-01-17,325,0,0,0,0,0.0,0.0
+353,deezee,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-01-13,694,0,0,0,0,0.0,0.0
+354,"Paul R. Prescott ""MilDoc""",PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-01-05,702,0,0,0,0,0.0,0.0
+355,CaffeinatedCajun,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-06-06,550,0,0,0,0,0.0,0.0
+356,stephen sikorski,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2014-10-04,65,0,0,0,0,0.0,0.0
+357,glindagoodwitch,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-08-27,468,0,0,0,0,0.0,0.0
+358,Boricua1966,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2013-04-20,597,0,0,0,0,0.0,0.0
+359,KitchenBrews,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2013-12-31,342,0,0,0,0,0.0,0.0
+360,"strongium90 ""Strongium90""",Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2014-04-01,251,0,0,0,0,0.0,0.0
+361,T. J. L.,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-06-19,537,0,0,0,0,0.0,0.0
+362,"Element ""Nina""",PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2014-08-03,127,0,0,0,0,0.0,0.0
+363,Sam,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2014-08-01,129,0,0,0,0,0.0,0.0
+364,Tim,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",2.0,2013-11-09,394,0,0,0,0,0.0,0.0
+365,Darren,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2014-12-03,5,0,0,0,0,0.0,0.0
+366,Steven J. Swanson,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-08-07,488,0,0,0,0,0.0,0.0
+367,"ThaCooLoser ""CooLoserTech""",PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-05-23,564,0,0,0,0,0.0,0.0
+368,Hawkins,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2012-10-31,768,0,0,0,0,0.0,0.0
+369,Biomedted,PayPal Credit,"The service is okay, but there are better options with lower fees.",4.0,2013-12-15,358,0,0,0,0,0.0,0.0
+370,blurb,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-08-16,479,0,0,0,0,0.0,0.0
+371,mcfizzle,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",3.0,2013-02-04,672,0,0,0,0,0.0,0.0
+372,Joshua cooper,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-12-05,368,0,0,0,0,0.0,0.0
+373,"Abused Commuter ""abused_commuter""",PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",1.0,2013-07-20,506,0,1,1,-1,0.0,0.0
+374,ChrisAmr,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2013-12-29,344,0,0,0,0,0.0,0.0
+375,PayPal Customer,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",1.0,2013-08-17,478,0,0,0,0,0.0,0.0
+376,Amazon fan,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2014-04-07,245,0,0,0,0,0.0,0.0
+377,S-T-R-Y-D-E-R,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",1.0,2014-10-03,66,1,0,1,1,1.0,0.2065493143772374
+378,betty g,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-07-01,160,0,0,0,0,0.0,0.0
+379,color me satisfied,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",2.0,2013-04-20,597,0,0,0,0,0.0,0.0
+380,"David ""here.david""",Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-04-29,588,0,0,0,0,0.0,0.0
+381,amishbob,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2014-01-27,315,2,0,2,2,1.0,0.3423802275066531
+382,Michael B. Gutermuth,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-06-05,551,0,0,0,0,0.0,0.0
+383,"Phillip W. Wilson ""Phillip Wilson""",PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",1.0,2012-12-17,721,1,1,2,0,0.5,0.0945312057342307
+384,Phil Espejo,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2014-11-04,34,0,0,0,0,0.0,0.0
+385,Merissa,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-04-16,601,0,0,0,0,0.0,0.0
+386,...,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2014-12-06,2,0,0,0,0,0.0,0.0
+387,"Hakudoushinumber9 ""Hakudoushi numbernine""",Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2014-03-06,277,0,0,0,0,0.0,0.0
+388,"marcelmib ""musician extraordinaire""",PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-03-15,268,0,0,0,0,0.0,0.0
+389,T-Dub,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2014-06-04,187,0,0,0,0,0.0,0.0
+390,"J. Watts ""JLW""",Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",3.0,2013-08-12,483,0,0,0,0,0.0,0.0
+391,Eugene Tourangeau,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2014-04-22,230,0,0,0,0,0.0,0.0
+392,wes,Braintree,"It works well for multiple payment options, but the interface could be smoother.",1.0,2013-12-06,367,0,0,0,0,0.0,0.0
+393,David Crumpton,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-06-24,532,0,0,0,0,0.0,0.0
+394,"westurner ""wMaurice""",PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-05-22,565,0,0,0,0,0.0,0.0
+395,Frank Mellott,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-03-30,618,0,0,0,0,0.0,0.0
+396,DLN,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2014-02-07,304,0,0,0,0,0.0,0.0
+397,"Jsteed ""Jsteed59""",Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2014-03-25,258,0,0,0,0,0.0,0.0
+398,bbilt,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2014-04-06,246,0,0,0,0,0.0,0.0
+399,onedog,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2014-05-07,215,0,0,0,0,0.0,0.0
+400,"Chingas Lee ""Audio's Amigo""",Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2014-04-04,248,0,0,0,0,0.0,0.0
+401,akisadr,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-07-10,516,0,0,0,0,0.0,0.0
+402,esdsix,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2014-01-24,318,0,0,0,0,0.0,0.0
+403,Bo Bland,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2013-06-24,532,0,0,0,0,0.0,0.0
+404,Matt,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2014-02-01,310,0,0,0,0,0.0,0.0
+405,ramsco,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-06-20,536,0,0,0,0,0.0,0.0
+406,Craig,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2012-04-12,970,0,0,0,0,0.0,0.0
+407,kenny,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-12-03,370,0,0,0,0,0.0,0.0
+408,H. Yang,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2013-03-28,620,0,0,0,0,0.0,0.0
+409,Happy Camper,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2013-10-24,410,0,0,0,0,0.0,0.0
+410,David,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2014-05-06,216,0,0,0,0,0.0,0.0
+411,Misty Matheny,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-03-18,630,0,0,0,0,0.0,0.0
+412,Richard W.,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2014-03-14,269,0,0,0,0,0.0,0.0
+413,Bozvotros,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",3.0,2012-12-17,721,0,0,0,0,0.0,0.0
+414,Debbie,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",4.0,2012-12-14,724,0,0,0,0,0.0,0.0
+415,"Amazon Customer ""mgypsy62""",Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-02-11,665,0,0,0,0,0.0,0.0
+416,Michael Peterson,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2012-11-20,748,0,0,0,0,0.0,0.0
+417,R. Dean,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",4.0,2013-10-05,429,0,0,0,0,0.0,0.0
+418,"Carlos E. Portillo ""dreamer79""",PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",4.0,2014-12-06,2,0,0,0,0,0.0,0.0
+419,Craig Dorsey,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2013-06-20,536,0,0,0,0,0.0,0.0
+420,MoonDogg,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-02-06,670,0,0,0,0,0.0,0.0
+421,R. Campbell,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-12-30,343,0,0,0,0,0.0,0.0
+422,gllags,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2014-01-01,341,0,0,0,0,0.0,0.0
+423,LeDerrius,PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",4.0,2013-12-31,342,0,0,0,0,0.0,0.0
+424,"Josh ""Josh""",Xoom,"The service is good, but sometimes the app crashes during transactions.",3.0,2013-09-09,455,0,0,0,0,0.0,0.0
+425,Trey,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-08-22,473,0,0,0,0,0.0,0.0
+426,mb,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",3.0,2012-08-25,835,0,0,0,0,0.0,0.0
+427,DD,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",4.0,2013-12-19,354,0,0,0,0,0.0,0.0
+428,MusicBro,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2012-12-14,724,0,0,0,0,0.0,0.0
+429,Cuffy,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2014-04-17,235,0,0,0,0,0.0,0.0
+430,PayPal Customer,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-11-07,396,0,0,0,0,0.0,0.0
+431,R. Eyster,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",4.0,2014-12-02,6,0,0,0,0,0.0,0.0
+432,PayPal Customer,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-09-12,452,0,0,0,0,0.0,0.0
+433,Maurizio,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2014-10-01,68,0,0,0,0,0.0,0.0
+434,"D. Brletich ""db""",Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2014-03-19,264,1,0,1,1,1.0,0.2065493143772374
+435,J. Gauntlett,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",1.0,2013-12-01,372,0,1,1,-1,0.0,0.0
+436,Malt,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-07-06,520,0,0,0,0,0.0,0.0
+437,GTard,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-03-19,629,0,0,0,0,0.0,0.0
+438,Quinton W. Shelby,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2013-09-19,445,0,0,0,0,0.0,0.0
+439,"Alex ""Tell it like it is""",PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-11-09,394,0,0,0,0,0.0,0.0
+440,"Steven Adamczyk ""Steve""",PayPal Credit,"The no-interest period helps, but approval took longer than expected.",4.0,2013-03-29,619,0,0,0,0,0.0,0.0
+441,Danh Minh Tran,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2014-05-07,215,0,0,0,0,0.0,0.0
+442,"A. Carr ""game hater""",Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2014-04-29,223,0,0,0,0,0.0,0.0
+443,Victoria D.,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2014-11-03,35,0,0,0,0,0.0,0.0
+444,Bee,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-05-31,556,0,0,0,0,0.0,0.0
+445,"shawn911 ""shawn911""",PayPal Credit,"The no-interest period helps, but approval took longer than expected.",4.0,2014-02-04,307,0,0,0,0,0.0,0.0
+446,Gregs of Wrath,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-11-03,400,0,0,0,0,0.0,0.0
+447,jerry-one,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",4.0,2014-10-02,67,0,0,0,0,0.0,0.0
+448,abbadon,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-10-25,409,0,0,0,0,0.0,0.0
+449,"anonymous ""Lworks""",PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2014-09-04,95,0,0,0,0,0.0,0.0
+450,"CompletelyComputers ""Completely Computers""",PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-03-25,258,0,0,0,0,0.0,0.0
+451,James DeMichael,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-12-30,343,0,0,0,0,0.0,0.0
+452,gent1,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2013-07-03,523,0,0,0,0,0.0,0.0
+453,Z Guy,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",4.0,2014-11-01,37,0,0,0,0,0.0,0.0
+454,Robert Potamus,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-08-16,479,0,0,0,0,0.0,0.0
+455,Zo,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-08-22,473,0,0,0,0,0.0,0.0
+456,M. Hicks,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2014-05-17,205,0,0,0,0,0.0,0.0
+457,"BetaTech ""Technology and Product Design Revie...",PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-08-17,478,0,0,0,0,0.0,0.0
+458,DRATER,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2014-01-18,324,0,0,0,0,0.0,0.0
+459,jswisher,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2014-01-06,336,0,0,0,0,0.0,0.0
+460,TonyBOY,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2012-08-27,833,0,0,0,0,0.0,0.0
+461,C. Richmond,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-01-23,684,0,0,0,0,0.0,0.0
+462,"Nikola Tesla ""Free Energy""",Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2014-03-23,260,0,0,0,0,0.0,0.0
+463,Bart J. Schuck,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2012-11-18,750,0,0,0,0,0.0,0.0
+464,"Ellie ""Eilean Siar""",PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2014-02-05,306,0,0,0,0,0.0,0.0
+465,K. Fifield,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2014-04-29,223,1,0,1,1,1.0,0.2065493143772374
+466,"J. Euell ""JE""",Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-11-23,380,0,0,0,0,0.0,0.0
+467,mitch053,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-02-05,671,0,0,0,0,0.0,0.0
+468,EK,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2013-11-24,379,0,0,0,0,0.0,0.0
+469,rhy,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2014-06-21,170,0,0,0,0,0.0,0.0
+470,DogLovingFool,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-09-05,459,0,0,0,0,0.0,0.0
+471,Sebastian Lowe,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2014-06-07,184,0,0,0,0,0.0,0.0
+472,T. Narayanan,Braintree,"It works well for multiple payment options, but the interface could be smoother.",1.0,2013-01-28,679,0,0,0,0,0.0,0.0
+473,Michael,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",4.0,2013-05-06,581,1,0,1,1,1.0,0.2065493143772374
+474,Mary,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-08-23,472,0,0,0,0,0.0,0.0
+475,Christopher Pride,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",4.0,2014-03-19,264,0,0,0,0,0.0,0.0
+476,eagle,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2014-01-20,322,0,0,0,0,0.0,0.0
+477,"Tigger ""Jason""",PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-03-31,252,3,1,4,2,0.75,0.3006418425824019
+478,W J. LANE,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2013-07-18,508,0,0,0,0,0.0,0.0
+479,honestreviews,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2014-02-03,308,0,0,0,0,0.0,0.0
+480,Mandryke,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",2.0,2013-02-23,653,0,0,0,0,0.0,0.0
+481,Mike,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2013-07-28,498,0,0,0,0,0.0,0.0
+482,Robert Hoffman,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2014-04-29,223,0,0,0,0,0.0,0.0
+483,Miguel WestPalm,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2014-03-30,253,0,0,0,0,0.0,0.0
+484,Just some guy,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2013-01-22,685,0,0,0,0,0.0,0.0
+485,PayPal Customer,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2014-10-07,62,0,0,0,0,0.0,0.0
+486,mhogan,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-05-07,580,2,0,2,2,1.0,0.3423802275066531
+487,Dai N. Tran,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2014-05-29,193,0,0,0,0,0.0,0.0
+488,Michael Perez,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",4.0,2012-12-21,717,0,0,0,0,0.0,0.0
+489,Pops,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2013-07-03,523,0,0,0,0,0.0,0.0
+490,Adam M.,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-07-13,148,0,0,0,0,0.0,0.0
+491,PayPal Customer,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",4.0,2013-08-01,494,0,0,0,0,0.0,0.0
+492,stacey,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-08-07,488,0,0,0,0,0.0,0.0
+493,JT,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-03-03,645,0,0,0,0,0.0,0.0
+494,jt,Xoom,"The service is good, but sometimes the app crashes during transactions.",4.0,2014-05-01,221,0,0,0,0,0.0,0.0
+495,Carlos A. de Souza,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2014-12-01,7,0,0,0,0,0.0,0.0
+496,Chris,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2013-08-22,473,0,0,0,0,0.0,0.0
+497,skip,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-07-07,519,0,0,0,0,0.0,0.0
+498,Harriette Wasserman,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",4.0,2013-02-12,664,0,0,0,0,0.0,0.0
+499,Jerry Saperstein,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-03-17,266,8,2,10,6,0.8,0.4901624715366418
+500,Avelarder,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",4.0,2014-04-04,248,0,0,0,0,0.0,0.0
+501,"Phillip A. Oliveto ""Don't knock it until you'...",PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-12-19,354,0,0,0,0,0.0,0.0
+502,Sarah Vanderwende,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-09-12,452,0,0,0,0,0.0,0.0
+503,A discerning buyer,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-08-20,475,0,1,1,-1,0.0,0.0
+504,Tim,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2013-09-17,447,0,0,0,0,0.0,0.0
+505,Do42,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2012-12-23,715,0,0,0,0,0.0,0.0
+506,S. Kosari,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2013-06-27,529,0,0,0,0,0.0,0.0
+507,"Neng Vang ""Neng2012""",Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-07-25,501,1,0,1,1,1.0,0.2065493143772374
+508,"Blainem ""Blainem""",PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-09-05,94,0,0,0,0,0.0,0.0
+509,Gaven fechter,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2014-01-31,311,0,0,0,0,0.0,0.0
+510,Joseph S. Germain,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2013-12-30,343,0,0,0,0,0.0,0.0
+511,Tim Wong,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-09-25,439,0,0,0,0,0.0,0.0
+512,portstlucieadvertising,Xoom,"Transfers are generally quick, but the mobile app could be improved.",3.0,2014-02-02,309,0,1,1,-1,0.0,0.0
+513,Shawn Fallin,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",4.0,2012-06-12,909,0,0,0,0,0.0,0.0
+514,David D. Gali II,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-09-22,442,0,0,0,0,0.0,0.0
+515,Bearicus,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2013-09-17,447,0,0,0,0,0.0,0.0
+516,Damon Downing,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-09-16,448,0,0,0,0,0.0,0.0
+517,Tony,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",1.0,2014-06-15,176,0,0,0,0,0.0,0.0
+518,KA,Braintree,"A solid service, though I had a few issues with setting it up initially.",4.0,2013-03-04,644,0,0,0,0,0.0,0.0
+519,C. S. Brock,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2013-05-21,566,0,0,0,0,0.0,0.0
+520,Saminda Nirmal Fonseka,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-09-28,436,0,0,0,0,0.0,0.0
+521,NGTO1,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2014-03-05,278,0,0,0,0,0.0,0.0
+522,pino,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2012-11-16,752,0,0,0,0,0.0,0.0
+523,Tom L. Urbaniak,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-10-11,423,0,0,0,0,0.0,0.0
+524,Canajun,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-06-01,555,0,0,0,0,0.0,0.0
+525,Techno Geek,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-05-23,564,0,0,0,0,0.0,0.0
+526,Pete,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",1.0,2013-08-23,472,1,1,2,0,0.5,0.0945312057342307
+527,Patsy L. Alexander,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2013-07-02,524,0,0,0,0,0.0,0.0
+528,Cleavo761,PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",5.0,2014-02-24,287,0,0,0,0,0.0,0.0
+529,Kyle Kamperschroer,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2013-08-29,466,0,0,0,0,0.0,0.0
+530,BK,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",1.0,2013-10-11,423,1,0,1,1,1.0,0.2065493143772374
+531,bshaf,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",4.0,2013-10-04,430,0,0,0,0,0.0,0.0
+532,smackadoo,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",1.0,2013-04-02,615,2,1,3,1,0.6666666666666666,0.2076596008020476
+533,Diane R Case,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",4.0,2013-05-26,561,0,2,2,-2,0.0,0.0
+534,"William Fajardo ""home owner""",Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",4.0,2014-02-06,305,0,0,0,0,0.0,0.0
+535,"Robert K. Harvey ""BobH""",PayPal Credit,"The no-interest period helps, but approval took longer than expected.",2.0,2013-11-27,376,1,0,1,1,1.0,0.2065493143772374
+536,"RMG ""Toy Collector""",PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-03-22,626,0,0,0,0,0.0,0.0
+537,Carlos,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-05-29,558,0,0,0,0,0.0,0.0
+538,"OJ Oshin ""Muyiwa""",PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",4.0,2013-09-21,443,0,0,0,0,0.0,0.0
+539,Z S Liske,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2014-03-31,252,0,0,0,0,0.0,0.0
+540,PayPal Customer,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",4.0,2013-03-30,618,0,0,0,0,0.0,0.0
+541,"The Carfanman ""Be more concerned with your ch...",Xoom,"It's reliable, though I had one delayed transfer which was annoying.",3.0,2013-04-11,606,0,0,0,0,0.0,0.0
+542,W. Smith,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-04-07,245,0,0,0,0,0.0,0.0
+543,"Angel A. Correa ""The artist""",PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2014-03-18,265,0,0,0,0,0.0,0.0
+544,Monica,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-06-02,189,0,0,0,0,0.0,0.0
+545,Ryan Boochard,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2014-05-26,196,0,0,0,0,0.0,0.0
+546,Cal,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2014-06-24,167,0,0,0,0,0.0,0.0
+547,Aaron F. Virginie,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2013-04-07,610,0,1,1,-1,0.0,0.0
+548,mark,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2014-02-22,289,0,0,0,0,0.0,0.0
+549,Mack-SS-Seattle,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-02-18,293,0,0,0,0,0.0,0.0
+550,"N. Delorme ""Internet shopper""",PayPal Credit,"The no-interest period helps, but approval took longer than expected.",4.0,2013-12-27,346,0,0,0,0,0.0,0.0
+551,Tria,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2013-08-12,483,0,0,0,0,0.0,0.0
+552,wenghuizhang,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-07-25,501,0,0,0,0,0.0,0.0
+553,"Brinkman242 ""Brinkman242""",Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-02-23,653,0,0,0,0,0.0,0.0
+554,anatoliy,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",1.0,2013-12-27,346,0,0,0,0,0.0,0.0
+555,PayPal Customer,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-06-30,161,0,0,0,0,0.0,0.0
+556,Tebowned,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-07-18,508,0,0,0,0,0.0,0.0
+557,James D.,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-10-10,424,0,0,0,0,0.0,0.0
+558,ed,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2014-04-17,235,0,0,0,0,0.0,0.0
+559,Con Sumer,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",3.0,2012-10-08,791,3,2,5,1,0.6,0.2307242812760128
+560,Rick W.,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-07-13,148,0,0,0,0,0.0,0.0
+561,David Trawick,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2014-05-15,207,0,0,0,0,0.0,0.0
+562,Joosby C.,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2014-01-22,320,0,0,0,0,0.0,0.0
+563,"Raisons ""Old Mechanic, newer car""",Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2014-08-04,126,0,0,0,0,0.0,0.0
+564,Mary,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2014-04-26,226,0,0,0,0,0.0,0.0
+565,gadgetGirl,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-04-30,587,0,0,0,0,0.0,0.0
+566,Jeff A,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2013-02-21,655,0,0,0,0,0.0,0.0
+567,megan mullins,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-03-13,270,0,0,0,0,0.0,0.0
+568,chaik george,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-02-06,670,0,0,0,0,0.0,0.0
+569,SHELLEY K,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2014-03-07,276,0,0,0,0,0.0,0.0
+570,KKJ,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2013-04-25,592,0,0,0,0,0.0,0.0
+571,J. Metcalf,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-07-29,497,0,0,0,0,0.0,0.0
+572,Richard M. Zimmerman,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-02-01,675,0,0,0,0,0.0,0.0
+573,"Jason Robinson ""jr""",Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-02-13,663,0,0,0,0,0.0,0.0
+574,John London,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2014-07-03,158,0,0,0,0,0.0,0.0
+575,DH,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-02-03,673,0,0,0,0,0.0,0.0
+576,"Jeff ""Brown Coat""",Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-11-06,397,0,0,0,0,0.0,0.0
+577,Pablo,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2012-12-27,711,0,0,0,0,0.0,0.0
+578,R. Tejeda,PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",5.0,2013-09-02,462,0,0,0,0,0.0,0.0
+579,Dagnasty,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-11-04,399,0,0,0,0,0.0,0.0
+580,J. Roseboom,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",1.0,2013-06-16,540,0,0,0,0,0.0,0.0
+581,Chris,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-12-26,347,0,0,0,0,0.0,0.0
+582,AC,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-01-14,693,0,0,0,0,0.0,0.0
+583,Bobby C. Richardson,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2013-12-01,372,0,0,0,0,0.0,0.0
+584,"NeedApple ""Apple fan""",PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-01-01,706,0,0,0,0,0.0,0.0
+585,Takah,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2012-12-14,724,0,0,0,0,0.0,0.0
+586,Bartoggle,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-11-13,390,0,0,0,0,0.0,0.0
+587,TheBianchi,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-08-28,467,1,0,1,1,1.0,0.2065493143772374
+588,SkywalkRtexsRngr,PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",5.0,2014-06-01,190,0,0,0,0,0.0,0.0
+589,Antti,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2013-09-26,438,0,0,0,0,0.0,0.0
+590,Richard D. Bradford,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2014-06-24,167,0,0,0,0,0.0,0.0
+591,PayPal Customer,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-11-11,392,0,0,0,0,0.0,0.0
+592,Jerry Solomon,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2014-03-20,263,0,0,0,0,0.0,0.0
+593,westshop,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",3.0,2013-01-15,692,0,0,0,0,0.0,0.0
+594,Imran I. Khan,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",4.0,2012-12-24,714,0,0,0,0,0.0,0.0
+595,PMC,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2014-01-01,341,0,0,0,0,0.0,0.0
+596,"Matthew ""Matt""",PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-09-08,456,0,0,0,0,0.0,0.0
+597,lotzosushi,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2012-12-20,718,0,0,0,0,0.0,0.0
+598,Jose Jaime,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-12-30,343,0,0,0,0,0.0,0.0
+599,tl,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2014-05-16,206,0,0,0,0,0.0,0.0
+600,tcstom,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2014-03-01,282,0,0,0,0,0.0,0.0
+601,Clinton J. Kelley,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2014-04-25,227,0,0,0,0,0.0,0.0
+602,"Steve ""flixnpix""",PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-10-06,63,1,0,1,1,1.0,0.2065493143772374
+603,Ale-B,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-10-30,404,0,0,0,0,0.0,0.0
+604,Dan-O,PayPal Credit,"The service is okay, but there are better options with lower fees.",4.0,2014-12-06,2,0,0,0,0,0.0,0.0
+605,C. Wells,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2013-09-03,461,0,0,0,0,0.0,0.0
+606,William Garvin,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-10-06,428,0,0,0,0,0.0,0.0
+607,M,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",1.0,2014-06-01,190,0,0,0,0,0.0,0.0
+608,T. ONeill,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2014-05-27,195,0,0,0,0,0.0,0.0
+609,Alex Pomilio,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2014-07-02,159,0,0,0,0,0.0,0.0
+610,Joe Z,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2014-02-26,285,0,0,0,0,0.0,0.0
+611,Gotinoto,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-06-08,548,0,0,0,0,0.0,0.0
+612,J/D.,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2014-04-18,234,0,0,0,0,0.0,0.0
+613,"Ivor Petrie ""Ivor the Engineer""",PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-05-04,583,0,0,0,0,0.0,0.0
+614,ELSC,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2013-03-08,640,0,0,0,0,0.0,0.0
+615,Awesome,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2014-01-14,328,0,0,0,0,0.0,0.0
+616,Roland,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-10-01,433,1,0,1,1,1.0,0.2065493143772374
+617,Matthew Ross,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",4.0,2013-05-20,567,0,0,0,0,0.0,0.0
+618,Sherif Qotb,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-05-29,558,0,0,0,0,0.0,0.0
+619,"Phill Sharpe ""T.O.P.S""",PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2013-08-17,478,0,0,0,0,0.0,0.0
+620,Lynn,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-01-02,705,0,0,0,0,0.0,0.0
+621,Mauro Mori,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-01-11,696,0,0,0,0,0.0,0.0
+622,PayPal Customer,Xoom,"Transfers are generally quick, but the mobile app could be improved.",3.0,2013-07-02,524,0,0,0,0,0.0,0.0
+623,Ed,PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",5.0,2013-02-17,659,0,0,0,0,0.0,0.0
+624,Douglas Johnston,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-06-02,189,0,0,0,0,0.0,0.0
+625,Alejandro Hernndez,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",3.0,2014-03-02,281,0,0,0,0,0.0,0.0
+626,Etienne,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-04-22,595,0,0,0,0,0.0,0.0
+627,gerardo leal,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-10-04,65,0,0,0,0,0.0,0.0
+628,Josh Thompson,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",4.0,2013-01-30,677,0,0,0,0,0.0,0.0
+629,Dana Leasman,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2013-05-01,586,0,0,0,0,0.0,0.0
+630,Ben Ellefson,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-11-03,400,0,0,0,0,0.0,0.0
+631,MD_Family,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-02-12,664,0,0,0,0,0.0,0.0
+632,Hasan,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-12-12,361,0,0,0,0,0.0,0.0
+633,Matt P,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2013-04-22,595,0,0,0,0,0.0,0.0
+634,jay,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2014-11-01,37,0,0,0,0,0.0,0.0
+635,Rostislav Livinsky,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2014-02-21,290,0,0,0,0,0.0,0.0
+636,"Peter M. Wendt ""Eggy""",PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2012-12-17,721,0,0,0,0,0.0,0.0
+637,bough,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-10-06,428,0,0,0,0,0.0,0.0
+638,Kelly-K,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2014-09-05,94,0,0,0,0,0.0,0.0
+639,"Sergio ""Sergio Georgi""",Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-02-16,660,0,0,0,0,0.0,0.0
+640,Big Ern,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2012-12-13,725,0,0,0,0,0.0,0.0
+641,brunobv,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-11-06,397,0,0,0,0,0.0,0.0
+642,"J. Romero ""Jos L. Romero""",Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-07-23,503,0,0,0,0,0.0,0.0
+643,"Tim H ""Tim""",PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-01-16,691,0,0,0,0,0.0,0.0
+644,"Amazon Customer ""Kung-Fu master""",Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",4.0,2014-12-04,4,0,1,1,-1,0.0,0.0
+645,Brian,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-06-07,184,0,0,0,0,0.0,0.0
+646,"Y. Ramirez ""Crudas Cuerdas""",PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-02-06,670,0,0,0,0,0.0,0.0
+647,PayPal Customer,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2014-11-06,32,0,0,0,0,0.0,0.0
+648,"Gary Green ""Going Green""",PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2013-12-12,361,0,0,0,0,0.0,0.0
+649,Scott,PayPal Credit,"The service is okay, but there are better options with lower fees.",1.0,2014-08-05,125,0,2,2,-2,0.0,0.0
+650,bob,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2014-07-13,148,0,0,0,0,0.0,0.0
+651,Sir Buck,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",1.0,2014-01-13,329,0,1,1,-1,0.0,0.0
+652,William Hamilton,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2012-12-13,725,0,0,0,0,0.0,0.0
+653,LION,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-08-21,474,0,0,0,0,0.0,0.0
+654,Big Oz,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-04-06,611,0,0,0,0,0.0,0.0
+655,Failtelorn,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-12-19,354,0,0,0,0,0.0,0.0
+656,Eric buckner,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2014-02-07,304,0,0,0,0,0.0,0.0
+657,"Peter D. Jansen ""PJBlackbird""",Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2012-11-26,742,0,0,0,0,0.0,0.0
+658,Jesus Contreras,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",2.0,2013-09-04,460,0,0,0,0,0.0,0.0
+659,jmachado,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-12-10,363,0,0,0,0,0.0,0.0
+660,P. Martin,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2013-08-20,475,0,0,0,0,0.0,0.0
+661,Vladislav P. Taranov,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-11-01,402,0,0,0,0,0.0,0.0
+662,Larry W.,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-09-17,447,0,0,0,0,0.0,0.0
+663,PayPal Customer,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2014-03-25,258,1,0,1,1,1.0,0.2065493143772374
+664,The Amazon Shopper,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2012-11-20,748,0,0,0,0,0.0,0.0
+665,Jones,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-04-05,247,0,0,0,0,0.0,0.0
+666,"Shannon Lastowski ""Queen of Caffeine""",PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2014-06-05,186,0,0,0,0,0.0,0.0
+667,Chuckjlds,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2014-07-01,160,0,0,0,0,0.0,0.0
+668,V. Lee,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-12-09,364,0,0,0,0,0.0,0.0
+669,Techie2000,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",1.0,2013-01-29,678,0,0,0,0,0.0,0.0
+670,Dare to satisfy me,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-11-06,397,0,0,0,0,0.0,0.0
+671,SoccerJo,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2014-01-27,315,0,0,0,0,0.0,0.0
+672,Ocean Blue,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2014-03-19,264,0,0,0,0,0.0,0.0
+673,Kim Wiggins,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-01-13,329,0,0,0,0,0.0,0.0
+674,Ivan Perry &#34;Computer Dude&#34;,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2013-01-30,677,0,0,0,0,0.0,0.0
+675,"Marcio Barbosa Matielo ""mizifih""",PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2013-10-20,414,0,0,0,0,0.0,0.0
+676,Dale,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-12-06,367,0,0,0,0,0.0,0.0
+677,Garret Prenguber,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2014-06-29,162,0,0,0,0,0.0,0.0
+678,Andre Alho,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-06-20,171,0,0,0,0,0.0,0.0
+679,kawua,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2012-02-12,1030,0,0,0,0,0.0,0.0
+680,Stephen M. Lerch,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2014-07-07,154,0,0,0,0,0.0,0.0
+681,DK the DJ,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-12-01,372,0,0,0,0,0.0,0.0
+682,Tony,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",4.0,2014-08-07,123,0,0,0,0,0.0,0.0
+683,kyuumu,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-11-13,390,0,0,0,0,0.0,0.0
+684,Humberto Martinez Abed,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-01-02,705,0,0,0,0,0.0,0.0
+685,Travis,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",4.0,2013-06-28,528,0,0,0,0,0.0,0.0
+686,Brian Nguyen,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-06-07,549,0,0,0,0,0.0,0.0
+687,Mary J Kelly,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-11-21,382,0,0,0,0,0.0,0.0
+688,James B. Beavan III,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2014-01-24,318,0,0,0,0,0.0,0.0
+689,Enrique,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2014-01-26,316,0,0,0,0,0.0,0.0
+690,George Fox,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",2.0,2013-09-20,444,0,1,1,-1,0.0,0.0
+691,ceejay,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2014-01-14,328,0,0,0,0,0.0,0.0
+692,"Trip ""SC""",PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",4.0,2013-10-11,423,0,0,0,0,0.0,0.0
+693,D Crouch,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-01-31,676,0,0,0,0,0.0,0.0
+694,mike,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2014-11-03,35,0,0,0,0,0.0,0.0
+695,E. Lawrence Budro,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-06-04,552,0,0,0,0,0.0,0.0
+696,Dlaindy,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",4.0,2014-02-26,285,0,0,0,0,0.0,0.0
+697,"Amazon Customer ""Animaleyez""",Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-08-11,484,0,0,0,0,0.0,0.0
+698,Charles W. Stewart,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2014-06-07,184,0,0,0,0,0.0,0.0
+699,Gilles,PayPal Credit,"The service is okay, but there are better options with lower fees.",2.0,2014-05-06,216,0,0,0,0,0.0,0.0
+700,"A. Bystricky ""Tony B.""",Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2014-02-17,294,0,0,0,0,0.0,0.0
+701,Kevin,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",4.0,2014-04-24,228,0,0,0,0,0.0,0.0
+702,"Joe P. of Pennsylvania ""JP""",Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2014-02-20,291,0,0,0,0,0.0,0.0
+703,Glenn,PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",5.0,2014-01-16,326,0,0,0,0,0.0,0.0
+704,C. Sanchez,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-08-13,482,1,0,1,1,1.0,0.2065493143772374
+705,"Ryan T. Begley ""Ryan""",Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-12-17,356,0,0,0,0,0.0,0.0
+706,EKPG,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-01-21,686,0,0,0,0,0.0,0.0
+707,Lui,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",3.0,2014-01-16,326,0,0,0,0,0.0,0.0
+708,MinusTheC,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-04-12,605,0,0,0,0,0.0,0.0
+709,Johnson,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-02-12,664,0,0,0,0,0.0,0.0
+710,"Mar Twain ""Sam""",PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2013-07-31,495,0,0,0,0,0.0,0.0
+711,M. Eickholt,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2012-11-26,742,0,0,0,0,0.0,0.0
+712,mad G.I.,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",1.0,2013-05-29,558,0,0,0,0,0.0,0.0
+713,Hepotter,Braintree,"A solid service, though I had a few issues with setting it up initially.",3.0,2014-06-18,173,0,1,1,-1,0.0,0.0
+714,J S,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-07-22,504,0,0,0,0,0.0,0.0
+715,MoThug666,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2012-12-27,711,0,0,0,0,0.0,0.0
+716,Fishdog,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",4.0,2014-01-06,336,0,0,0,0,0.0,0.0
+717,BrianInNC,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-12-07,366,0,0,0,0,0.0,0.0
+718,"Hien Nguyen ""scatterbrained""",Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2013-03-12,636,0,0,0,0,0.0,0.0
+719,Gaby,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2014-07-07,154,0,0,0,0,0.0,0.0
+720,"Zeality ""N2iT""",PayPal Credit,"The no-interest period helps, but approval took longer than expected.",3.0,2014-03-30,253,0,0,0,0,0.0,0.0
+721,"KCC ""This is the really real world...There ai...",PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2012-11-30,738,0,0,0,0,0.0,0.0
+722,Bruce E. Harang,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-06-07,549,0,0,0,0,0.0,0.0
+723,RobbySkateboard,Braintree,"A solid service, though I had a few issues with setting it up initially.",2.0,2013-05-13,574,0,0,0,0,0.0,0.0
+724,Chad A. Lawrence,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-05-29,558,0,0,0,0,0.0,0.0
+725,"The Ripper ""Xsheriffsdeputy""",PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-12-19,354,0,0,0,0,0.0,0.0
+726,That Guy B,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2014-09-04,95,0,0,0,0,0.0,0.0
+727,Mark Ross,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",3.0,2013-07-11,515,0,1,1,-1,0.0,0.0
+728,Drake Johnson,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2012-12-24,714,0,0,0,0,0.0,0.0
+729,"Discoveror ""Mike""",Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-01-11,696,0,0,0,0,0.0,0.0
+730,cg,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2014-08-01,129,0,0,0,0,0.0,0.0
+731,SDBunny,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-09-09,455,0,0,0,0,0.0,0.0
+732,Collin,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-09-27,437,0,0,0,0,0.0,0.0
+733,Securus,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-05-19,203,0,0,0,0,0.0,0.0
+734,"Amazon Customer ""WoolTales""",Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-04-08,609,0,0,0,0,0.0,0.0
+735,Kenneth Lovely,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2014-02-04,307,0,1,1,-1,0.0,0.0
+736,lucas710,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-09-11,453,0,0,0,0,0.0,0.0
+737,WLK,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2014-01-07,335,0,0,0,0,0.0,0.0
+738,brenton,PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",5.0,2012-12-27,711,0,0,0,0,0.0,0.0
+739,Keith,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2014-09-03,96,0,0,0,0,0.0,0.0
+740,PayPal Customer,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2012-10-22,777,2,0,2,2,1.0,0.3423802275066531
+741,Joenathan,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-06-07,549,0,0,0,0,0.0,0.0
+742,amir70-il,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2014-04-01,251,0,0,0,0,0.0,0.0
+743,Cat Cat,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",4.0,2013-07-07,519,0,0,0,0,0.0,0.0
+744,Luke,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-01-27,680,0,0,0,0,0.0,0.0
+745,"S. Noyce ""Sam Thee Great""",PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-02-16,660,0,0,0,0,0.0,0.0
+746,"P. Laczko ""Laczko Studio plaster design""",PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-12-08,365,0,0,0,0,0.0,0.0
+747,KSY,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",4.0,2012-12-28,710,1,0,1,1,1.0,0.2065493143772374
+748,Dave Junia Lum,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-07-18,508,0,0,0,0,0.0,0.0
+749,Aaron,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2014-07-01,160,0,0,0,0,0.0,0.0
+750,Seamaster GMT,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",4.0,2013-08-13,482,1,0,1,1,1.0,0.2065493143772374
+751,Vinnie,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-12-10,363,0,0,0,0,0.0,0.0
+752,"TOB9595 ""TOB9595""",PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-06-22,534,0,0,0,0,0.0,0.0
+753,Howard and Shikha,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-02-12,664,0,0,0,0,0.0,0.0
+754,"Donald A. P. Bergler ""dbergler""",PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",2.0,2013-12-05,368,1,1,2,0,0.5,0.0945312057342307
+755,"Anthony Stone ""APS""",PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-11-07,396,0,0,0,0,0.0,0.0
+756,Will Burgess,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-01-15,692,0,0,0,0,0.0,0.0
+757,M. Wilson,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2014-02-06,305,0,0,0,0,0.0,0.0
+758,Miguel,PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",4.0,2014-02-22,289,0,0,0,0,0.0,0.0
+759,Nick,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2013-08-07,488,0,0,0,0,0.0,0.0
+760,T. Norman,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-07-20,506,0,0,0,0,0.0,0.0
+761,Daniel C.,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2014-11-03,35,0,0,0,0,0.0,0.0
+762,Sats,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",4.0,2014-02-18,293,0,0,0,0,0.0,0.0
+763,R. Meadows,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",4.0,2013-01-13,694,1,0,1,1,1.0,0.2065493143772374
+764,Michael,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-05-23,199,1,0,1,1,1.0,0.2065493143772374
+765,dca74,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2014-03-13,270,0,0,0,0,0.0,0.0
+766,Ben Myers,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2014-05-07,215,0,0,0,0,0.0,0.0
+767,PayPal Customer,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2014-01-02,340,0,0,0,0,0.0,0.0
+768,"Rodolfo Q. Z ""roqz""",PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",5.0,2014-08-01,129,0,0,0,0,0.0,0.0
+769,Mr. Bottom Tooth,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-11-07,396,0,0,0,0,0.0,0.0
+770,SincerelySigned,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-07-07,154,0,0,0,0,0.0,0.0
+771,James Hartsell,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-12-01,372,0,0,0,0,0.0,0.0
+772,Mark,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",3.0,2013-12-14,359,0,0,0,0,0.0,0.0
+773,Edgar Allen Poor,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",1.0,2013-08-28,467,1,0,1,1,1.0,0.2065493143772374
+774,K. Bender,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-07-19,507,0,0,0,0,0.0,0.0
+775,Troy  N.Stennett,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",3.0,2013-12-22,351,0,0,0,0,0.0,0.0
+776,David Drager,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2013-12-30,343,0,0,0,0,0.0,0.0
+777,"tesajeni ""tesajeni""",Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2013-11-01,402,0,0,0,0,0.0,0.0
+778,MJ,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2013-10-07,427,0,0,0,0,0.0,0.0
+779,"AZ Skater ""AZ Skater""",Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2014-02-01,310,0,0,0,0,0.0,0.0
+780,D. Noonan,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2013-11-09,394,0,0,0,0,0.0,0.0
+781,Ethan,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-03-12,636,0,1,1,-1,0.0,0.0
+782,Rhia R. Drouillard,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-07-10,516,0,0,0,0,0.0,0.0
+783,Bond,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",1.0,2013-06-02,554,0,1,1,-1,0.0,0.0
+784,Irritated,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",4.0,2013-02-10,666,0,0,0,0,0.0,0.0
+785,"WPCS International ""Ray Barajas""",Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-02-01,675,0,0,0,0,0.0,0.0
+786,"Willie Vargas ""WillieVargas""",PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2014-06-27,164,0,0,0,0,0.0,0.0
+787,J. David Kerr,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-07-06,520,0,0,0,0,0.0,0.0
+788,Darrell,PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",3.0,2013-12-17,356,0,0,0,0,0.0,0.0
+789,Shijaz Abdulla,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-02-05,671,0,0,0,0,0.0,0.0
+790,intrathecal,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-06-22,169,0,0,0,0,0.0,0.0
+791,Robert E. Messier,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",4.0,2013-02-07,669,0,0,0,0,0.0,0.0
+792,Curtis L. Winston,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-05-15,572,0,0,0,0,0.0,0.0
+793,Bruce,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2013-08-03,492,0,0,0,0,0.0,0.0
+794,Chase,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-07-21,505,0,0,0,0,0.0,0.0
+795,Rick Farone,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-08-02,493,0,0,0,0,0.0,0.0
+796,tamathumper,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2014-05-06,216,0,0,0,0,0.0,0.0
+797,"rbhatta ""A Dinosaur you can trust!""",Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",4.0,2013-05-06,581,2,0,2,2,1.0,0.3423802275066531
+798,Jim,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2013-10-02,432,0,0,0,0,0.0,0.0
+799,PayPal Customer,PayPal Credit,"The service is okay, but there are better options with lower fees.",1.0,2013-10-09,425,0,0,0,0,0.0,0.0
+800,Minsoo Kang,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-03-01,282,0,0,0,0,0.0,0.0
+801,TerryMercer_com,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-12-25,348,0,0,0,0,0.0,0.0
+802,Brandon C Doan,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-08-21,474,0,0,0,0,0.0,0.0
+803,Craig,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-12-29,344,0,0,0,0,0.0,0.0
+804,Douglas P.,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-05-22,565,0,0,0,0,0.0,0.0
+805,imxron,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-02-25,651,0,0,0,0,0.0,0.0
+806,Luis R.,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-03-29,619,0,0,0,0,0.0,0.0
+807,magnumsteele,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",2.0,2013-03-22,626,1,0,1,1,1.0,0.2065493143772374
+808,Strollie,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2014-05-01,221,0,0,0,0,0.0,0.0
+809,Ray,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2014-01-04,338,0,0,0,0,0.0,0.0
+810,PayPal Customer,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",4.0,2013-11-14,389,0,0,0,0,0.0,0.0
+811,"deezTx ""deeztx""",PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",4.0,2014-10-01,68,0,0,0,0,0.0,0.0
+812,michael lasky,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2013-04-12,605,1,0,1,1,1.0,0.2065493143772374
+813,SchecterRocker,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2013-08-06,489,1,0,1,1,1.0,0.2065493143772374
+814,"Mitchell F ""Mitchell F""",Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-02-10,666,0,0,0,0,0.0,0.0
+815,"Underberg ""Underberg""",Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2013-07-12,514,0,0,0,0,0.0,0.0
+816,ricardo lopez,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",4.0,2013-03-20,628,0,0,0,0,0.0,0.0
+817,Eric Redman,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",1.0,2012-12-14,724,1,2,3,-1,0.3333333333333333,0.0614919447203962
+818,lhobbs4,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2013-08-14,481,0,3,3,-3,0.0,4.868360917120224e-17
+819,Adeel Azhari,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-07-07,519,0,0,0,0,0.0,0.0
+820,Ben,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-09-17,447,0,0,0,0,0.0,0.0
+821,Elchis,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-07-28,498,0,0,0,0,0.0,0.0
+822,A.J. Matheson,Braintree,"It works well for multiple payment options, but the interface could be smoother.",4.0,2012-11-26,742,0,0,0,0,0.0,0.0
+823,Stacy,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2013-08-14,481,0,0,0,0,0.0,0.0
+824,Al Girardot,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-02-03,673,0,0,0,0,0.0,0.0
+825,"E. L. Willis ""ELWood""",PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",4.0,2013-11-11,392,0,0,0,0,0.0,0.0
+826,"Jamaicancouponmom ""Coupon mom""",Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-08-24,471,0,0,0,0,0.0,0.0
+827,Matthias Hypolite,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",2.0,2014-09-07,92,0,0,0,0,0.0,0.0
+828,Duane G. Jacobs,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-07-14,147,0,0,0,0,0.0,0.0
+829,QSM,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-02-27,649,1,0,1,1,1.0,0.2065493143772374
+830,Dr. XYZ,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",4.0,2013-12-14,359,0,0,0,0,0.0,0.0
+831,Steveotech,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",1.0,2012-05-12,940,1,1,2,0,0.5,0.0945312057342307
+832,Armand Muntzel,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-04-17,600,0,0,0,0,0.0,0.0
+833,"J. Ruiz ""Snazzie""",Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",4.0,2012-02-12,1030,0,0,0,0,0.0,0.0
+834,Ruth D. Berrios,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2014-03-20,263,0,0,0,0,0.0,0.0
+835,S. Q.,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2012-12-19,719,1,0,1,1,1.0,0.2065493143772374
+836,BH,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2014-10-01,68,0,0,0,0,0.0,0.0
+837,John Coleman,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-08-18,477,0,0,0,0,0.0,0.0
+838,bk,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-03-03,645,1,0,1,1,1.0,0.2065493143772374
+839,"Aqua-nordic Design Service, Incorporated ""Gun...",Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-01-30,677,1,0,1,1,1.0,0.2065493143772374
+840,Don N.,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-01-26,316,0,0,0,0,0.0,0.0
+841,David,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2012-11-24,744,1,0,1,1,1.0,0.2065493143772374
+842,"David O. Brown ""David O. Brown""",Xoom,"Transfers are generally quick, but the mobile app could be improved.",2.0,2013-10-23,411,0,2,2,-2,0.0,0.0
+843,Dzilizi,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",4.0,2013-05-05,582,0,0,0,0,0.0,0.0
+844,D. W.,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",1.0,2013-02-07,669,1,2,3,-1,0.3333333333333333,0.0614919447203962
+845,"Tom Henriksen ""Doggy Diner""",Braintree,"The service is secure and reliable, but the fees are higher than competitors.",1.0,2012-09-22,807,82,27,109,55,0.7522935779816514,0.6635947906567368
+846,paulicious21,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-04-30,587,0,1,1,-1,0.0,0.0
+847,sjcabdriver,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2013-11-02,401,0,0,0,0,0.0,0.0
+848,A. Liu,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",2.0,2014-02-05,306,0,0,0,0,0.0,0.0
+849,Michael A. Davis,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2013-12-30,343,1,0,1,1,1.0,0.2065493143772374
+850,EGXX,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-02-21,655,0,0,0,0,0.0,0.0
+851,K. Barbalace,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2013-11-25,378,0,0,0,0,0.0,0.0
+852,"Jonathan R. Adams ""adrenalinanimal""",PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-07-22,504,0,0,0,0,0.0,0.0
+853,"Joy K. Thom ""Jo""",PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",5.0,2012-07-12,879,0,0,0,0,0.0,0.0
+854,area51auto,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2014-02-27,284,0,0,0,0,0.0,0.0
+855,David M. Arrington,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-04-18,599,0,0,0,0,0.0,0.0
+856,Tony,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2014-11-01,37,0,0,0,0,0.0,0.0
+857,Michael A. Silver,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2013-06-27,529,0,0,0,0,0.0,0.0
+858,Greywolf74,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-01-04,703,0,0,0,0,0.0,0.0
+859,emerrb,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-04-01,616,0,0,0,0,0.0,0.0
+860,"Carlitos ""The One""",Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-02-10,666,0,0,0,0,0.0,0.0
+861,PayPal Customer,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-03-14,634,0,0,0,0,0.0,0.0
+862,"Tom ""tm1579""",Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2013-08-18,477,0,0,0,0,0.0,0.0
+863,Saul Amador,Braintree,"A solid service, though I had a few issues with setting it up initially.",4.0,2013-06-06,550,2,0,2,2,1.0,0.3423802275066531
+864,Jim,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2012-10-19,780,0,0,0,0,0.0,0.0
+865,GoldenElkLad,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2013-06-06,550,0,0,0,0,0.0,0.0
+866,Dante Russell,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2014-04-01,251,0,1,1,-1,0.0,0.0
+867,PayPal Customer,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-12-22,351,0,0,0,0,0.0,0.0
+868,Pigpen,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2012-12-27,711,0,0,0,0,0.0,0.0
+869,"Randy H. McKendry ""Randucci""",PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-02-28,648,0,0,0,0,0.0,0.0
+870,"DB ""DB""",Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-12-11,362,0,0,0,0,0.0,0.0
+871,stephen7777,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-05-08,579,0,0,0,0,0.0,0.0
+872,Guillermo Lene,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2014-03-06,277,0,0,0,0,0.0,0.0
+873,Jose A Ramirezgomez,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2013-07-23,503,0,0,0,0,0.0,0.0
+874,Ted Johnston,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-08-26,469,0,0,0,0,0.0,0.0
+875,R. Griffin,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2014-01-07,335,0,0,0,0,0.0,0.0
+876,McDade TX,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",1.0,2013-04-17,600,0,0,0,0,0.0,0.0
+877,Byron Foster,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2014-05-20,202,0,0,0,0,0.0,0.0
+878,R. Briggs,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-03-20,628,0,0,0,0,0.0,0.0
+879,Sello,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-08-10,485,0,0,0,0,0.0,0.0
+880,Review-a-thon,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-12-08,365,0,0,0,0,0.0,0.0
+881,Jaxjww,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-02-18,658,0,0,0,0,0.0,0.0
+882,m.y,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-06-16,540,0,0,0,0,0.0,0.0
+883,Love Archos,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-12-30,343,0,0,0,0,0.0,0.0
+884,Jerry Heald,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-07-14,512,0,0,0,0,0.0,0.0
+885,Rich,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2014-06-01,190,0,0,0,0,0.0,0.0
+886,KAren proctor,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2014-06-03,188,0,0,0,0,0.0,0.0
+887,Steve,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2014-01-13,329,0,0,0,0,0.0,0.0
+888,"Grace Foster ""Avid Reader""",Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2014-03-03,280,0,0,0,0,0.0,0.0
+889,"AJZ ""~AZ""",PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2013-03-14,634,0,0,0,0,0.0,0.0
+890,chirper9,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",5.0,2014-02-20,291,0,0,0,0,0.0,0.0
+891,mp,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2013-06-12,544,0,0,0,0,0.0,0.0
+892,Rogelio Ramos,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-01-15,327,0,1,1,-1,0.0,0.0
+893,winter128,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2012-12-17,721,0,0,0,0,0.0,0.0
+894,PayPal Customer,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",4.0,2013-05-10,577,0,0,0,0,0.0,0.0
+895,V. Grewal,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2013-06-11,545,0,0,0,0,0.0,0.0
+896,Erick Caro,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2014-03-02,281,0,0,0,0,0.0,0.0
+897,Israel Lopez Maldonado,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2013-12-27,346,0,0,0,0,0.0,0.0
+898,cdpham,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-08-18,477,0,0,0,0,0.0,0.0
+899,SCK,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2014-02-21,290,0,0,0,0,0.0,0.0
+900,kellyb,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2014-11-07,31,0,0,0,0,0.0,0.0
+901,Jakub Buczma,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2014-05-28,194,0,0,0,0,0.0,0.0
+902,"jiMMyoNewAy ""Gadget Pro""",Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-05-07,580,0,0,0,0,0.0,0.0
+903,Eric J. goff,Braintree,"A solid service, though I had a few issues with setting it up initially.",3.0,2013-07-15,511,0,0,0,0,0.0,0.0
+904,"Daniel Cooper ""dancoopermedia""",PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-06-27,529,0,0,0,0,0.0,0.0
+905,oafsandwich,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2014-03-14,269,0,0,0,0,0.0,0.0
+906,Pablo Ortega,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2014-11-07,31,1,0,1,1,1.0,0.2065493143772374
+907,E. Tam,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2014-11-07,31,0,0,0,0,0.0,0.0
+908,Edward,PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",5.0,2013-03-09,639,0,0,0,0,0.0,0.0
+909,RC,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-09-01,463,0,0,0,0,0.0,0.0
+910,Kenneth Leon,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",4.0,2013-03-29,619,0,0,0,0,0.0,0.0
+911,shardul,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-11-27,376,0,0,0,0,0.0,0.0
+912,Comms,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2013-08-19,476,0,0,0,0,0.0,0.0
+913,-----,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",1.0,2012-11-14,754,0,1,1,-1,0.0,0.0
+914,Ross,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2014-03-17,266,0,0,0,0,0.0,0.0
+915,S. Finch,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2014-05-02,220,0,0,0,0,0.0,0.0
+916,R. Ludwig,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-06-30,526,0,0,0,0,0.0,0.0
+917,FlanMaster,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-07-05,156,0,0,0,0,0.0,0.0
+918,Edward Farfan,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",4.0,2014-07-14,147,0,0,0,0,0.0,0.0
+919,"alwayseric ""alwayseric""",PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",5.0,2013-01-30,677,0,0,0,0,0.0,0.0
+920,john russell webster,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2012-12-23,715,0,0,0,0,0.0,0.0
+921,ed lamb,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2014-02-21,290,0,0,0,0,0.0,0.0
+922,D. Ron,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2014-06-20,171,0,0,0,0,0.0,0.0
+923,frwainscott,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-06-09,547,0,0,0,0,0.0,0.0
+924,LimaLima,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2014-02-03,308,0,0,0,0,0.0,0.0
+925,Anita,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-10-17,417,0,0,0,0,0.0,0.0
+926,ajb,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-03-25,623,4,0,4,4,1.0,0.5101091635454027
+927,John,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2012-06-12,909,0,0,0,0,0.0,0.0
+928,Roman b.,PayPal Credit,"It helps when I need to buy something quickly, but late fees are excessive.",5.0,2013-05-08,579,0,0,0,0,0.0,0.0
+929,Dr. Ed,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-05-28,559,0,0,0,0,0.0,0.0
+930,joenaples,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",4.0,2013-11-12,391,0,0,0,0,0.0,0.0
+931,Jay Macky,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2013-09-02,462,0,0,0,0,0.0,0.0
+932,"Kate White ""L White""",PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",5.0,2014-02-21,290,0,0,0,0,0.0,0.0
+933,Agean2010,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2014-07-01,160,0,0,0,0,0.0,0.0
+934,C A,Braintree,"It gets the job done, but there are definitely cheaper alternatives.",5.0,2014-08-05,125,0,0,0,0,0.0,0.0
+935,joemaamah,Venmo,"Venmo makes it easy to pay friends, but I’m not sure about the security.",4.0,2013-12-16,357,0,0,0,0,0.0,0.0
+936,jlloyd50,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",5.0,2012-11-10,758,0,0,0,0,0.0,0.0
+937,IamSerda,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-11-08,395,0,0,0,0,0.0,0.0
+938,Yuval,Xoom,"It’s fine for international transfers, though I wish it was more transparent with fees.",5.0,2014-08-01,129,0,0,0,0,0.0,0.0
+939,Roger G. Chapman,Venmo,"I like Venmo for paying people back, but the app sometimes freezes.",5.0,2013-12-24,349,0,0,0,0,0.0,0.0
+940,Steve Stove,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",4.0,2014-06-27,164,0,0,0,0,0.0,0.0
+941,cloudyr00m,Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-04-06,611,0,0,0,0,0.0,0.0
+942,"rtrski ""Who, me?""",Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",4.0,2013-05-27,560,0,0,0,0,0.0,0.0
+943,Michael Chang,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",5.0,2014-06-22,169,0,0,0,0,0.0,0.0
+944,ALJ,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-04-18,599,0,0,0,0,0.0,0.0
+945,Wes Embry,PayPal Credit,"The no-interest period helps, but approval took longer than expected.",5.0,2014-08-06,124,0,0,0,0,0.0,0.0
+946,Jon Doeh II,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-02-19,657,0,0,0,0,0.0,0.0
+947,doubleeagle,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",4.0,2013-03-19,629,0,0,0,0,0.0,0.0
+948,Practical Shopper,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-08-28,467,0,0,0,0,0.0,0.0
+949,Tony,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-06-02,554,0,0,0,0,0.0,0.0
+950,Gregory S Gannon,PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2013-02-09,667,0,0,0,0,0.0,0.0
+951,Shoshana R Gebelmann,PayPal Merchant Services,"I like the integration with my store, but refunds take too long.",5.0,2013-03-04,644,0,0,0,0,0.0,0.0
+952,K. Brown,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-04-09,608,0,0,0,0,0.0,0.0
+953,Mark Phillips,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-04-25,592,0,0,0,0,0.0,0.0
+954,ikari.avi,PayPal Credit,"The service is okay, but there are better options with lower fees.",4.0,2013-10-27,407,0,0,0,0,0.0,0.0
+955,Larry,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",3.0,2013-12-15,358,0,0,0,0,0.0,0.0
+956,What is a pen name,PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",4.0,2013-12-15,358,0,0,0,0,0.0,0.0
+957,VIVAVAIO,Venmo,"Transfers are fast, but there are occasional bugs that make it frustrating.",5.0,2012-12-27,711,0,0,0,0,0.0,0.0
+958,Mike Calabrese,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",1.0,2013-11-29,374,1,6,7,-5,0.1428571428571428,0.0256796243447435
+959,"DWinston ""DWinston33""",Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2013-04-10,607,0,0,0,0,0.0,0.0
+960,Abdul Purnell Askew SR,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2013-04-15,602,0,0,0,0,0.0,0.0
+961,Gandalphar,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2014-03-23,260,0,0,0,0,0.0,0.0
+962,"Chris F ""root""",Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2014-02-24,287,0,0,0,0,0.0,0.0
+963,"bwResponder ""txzz3""",PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",1.0,2013-07-20,506,0,0,0,0,0.0,0.0
+964,P. Carlson,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2013-01-05,702,0,0,0,0,0.0,0.0
+965,"Tom C. Chen ""tom in califonia""",PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2013-11-08,395,0,0,0,0,0.0,0.0
+966,Jon H,Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2014-02-23,288,0,0,0,0,0.0,0.0
+967,S. Gin,PayPal Digital Wallet,"I'm generally happy with the service, but there are occasional bugs in the app.",5.0,2014-07-07,154,0,0,0,0,0.0,0.0
+968,Daniel R. Escobar,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2013-04-18,599,0,0,0,0,0.0,0.0
+969,PayPal Customer,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2012-08-25,835,2,0,2,2,1.0,0.3423802275066531
+970,Nate,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2014-01-23,319,0,0,0,0,0.0,0.0
+971,sammy,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2012-12-28,710,0,0,0,0,0.0,0.0
+972,"PhotogDog ""KMW""",Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2014-05-21,201,0,0,0,0,0.0,0.0
+973,Barbara M.,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",5.0,2014-01-13,329,0,0,0,0,0.0,0.0
+974,HTfreak,PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-05-22,565,0,0,0,0,0.0,0.0
+975,DJ,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2014-02-27,284,0,0,0,0,0.0,0.0
+976,"S. C. Shevchik ""Shelfly""",Braintree,"It integrates well, though the monthly costs are tough for smaller businesses.",5.0,2013-08-25,470,0,0,0,0,0.0,0.0
+977,PurplePanda,PayPal Merchant Services,"It's reliable, though the fee structure is a bit overwhelming.",5.0,2013-05-19,568,0,0,0,0,0.0,0.0
+978,Andre Harrison,PayPal Merchant Services,"Payments go through smoothly, but the customer support could be faster.",1.0,2013-08-13,482,1,1,2,0,0.5,0.0945312057342307
+979,AtlantaNative,PayPal Credit,"The service is okay, but there are better options with lower fees.",5.0,2012-12-30,708,0,0,0,0,0.0,0.0
+980,"Johnny ""Online Surfer""",PayPal Digital Wallet,"It's convenient for online shopping, though the fees can be a bit much.",5.0,2014-01-22,320,0,0,0,0,0.0,0.0
+981,"Amazon Customer ""FOTOWAG""",Venmo,"It’s great for splitting bills, but the social feed seems unnecessary.",5.0,2013-12-14,359,0,0,0,0,0.0,0.0
+982,PayPal Customer,Braintree,"It works well for multiple payment options, but the interface could be smoother.",5.0,2013-03-08,640,0,0,0,0,0.0,0.0
+983,Nick Wilson,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2013-12-20,353,0,0,0,0,0.0,0.0
+984,Andy B,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-04-22,230,0,0,0,0,0.0,0.0
+985,Craig A,Braintree,"The service is secure and reliable, but the fees are higher than competitors.",5.0,2013-06-20,536,0,0,0,0,0.0,0.0
+986,Karl Carpenter,PayPal Digital Wallet,"Works okay most of the time, but sometimes there are unexplained delays.",5.0,2013-07-01,525,1,0,1,1,1.0,0.2065493143772374
+987,ML,PayPal Credit,"PayPal Credit works well, though I feel the fees are too steep.",4.0,2012-12-17,721,0,0,0,0,0.0,0.0
+988,L. Wong,PayPal Digital Wallet,"A decent service overall, but transaction speed could be improved.",3.0,2013-02-13,663,0,0,0,0,0.0,0.0
+989,P.T.,PayPal Merchant Services,"It's fine for basic payment processing, but the fees are a little high.",4.0,2014-07-07,154,0,0,0,0,0.0,0.0
+990,PayPal Customer,Xoom,"Xoom is fast for transfers, but the fees are a little higher than I expected.",5.0,2012-08-23,837,1,0,1,1,1.0,0.2065493143772374
+991,Steve,Xoom,"It's reliable, though I had one delayed transfer which was annoying.",5.0,2013-12-04,369,0,0,0,0,0.0,0.0
+992,L. Jones,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2013-11-19,384,0,0,0,0,0.0,0.0
+993,Ronald W. Springer,Braintree,"A solid service, though I had a few issues with setting it up initially.",5.0,2013-05-03,584,0,0,0,0,0.0,0.0
+994,Christopher D. Sanders,Xoom,"The service is good, but sometimes the app crashes during transactions.",5.0,2014-02-01,310,0,0,0,0,0.0,0.0
+995,Alzain,PayPal Merchant Services,"The service is good, but the transaction fees are too high for small businesses.",5.0,2013-12-21,352,0,0,0,0,0.0,0.0
+996,"Pulpit Pounding Political Pundit ""Peppy""",PayPal Credit,"It's useful for larger purchases, but the interest rates are too high if you're late.",3.0,2013-10-26,408,0,0,0,0,0.0,0.0
+997,zht,Xoom,"Transfers are generally quick, but the mobile app could be improved.",5.0,2012-12-28,710,0,0,0,0,0.0,0.0
+998,Sly Dawg,Venmo,"It’s a convenient app, though I’ve had some minor issues with account verification.",5.0,2014-03-07,276,0,0,0,0,0.0,0.0
+999,"Stephen Mclean ""Stephen""",PayPal Digital Wallet,"It's fine for sending money quickly, though customer service is hard to reach.",5.0,2013-06-02,554,0,0,0,0,0.0,0.0
